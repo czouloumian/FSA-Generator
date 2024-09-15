@@ -1,6 +1,5 @@
 import random
 
-
 class Transition:
     def __init__(self, next, prob):
         self.next = next
